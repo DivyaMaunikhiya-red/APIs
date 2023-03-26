@@ -1,0 +1,79 @@
+[
+    {
+      "title": "Pilot ID",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "HYDPIL000001",
+      "index": "pilotId"
+    },
+    {
+      "title": "Entity type",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "1081",
+      "index": "employeeId"
+    },
+    {
+      "title": "Pilot Name",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "HYDCA0126",
+      "index": "walletId"
+    },
+    {
+      "title": "Employee ID",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Dhonvan Kishan",
+      "index": "pilotName"
+    },
+    {
+      "title": "Company Name",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "StanPlus Technologies",
+      "index": "company"
+    },
+    {
+      "title": "Mobile",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "9885965706",
+      "index": "mobile"
+    },
+    {
+      "title": "City",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "HYD",
+      "index": "city"
+    },
+    {
+      "title": "Status",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "REMOVED",
+      "index": "status"
+    },
+    {
+      "title": "Wallet ID",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2022-01-01",
+      "index": "contractStartDate"
+    },
+    {
+      "title": "Aadhar Number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2023-12-31",
+      "index": "contractEndDate"
+    },
+    {
+      "title": "PAN card number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "BBM98799",
+      "index": "city"
+    }
+  ]

@@ -1,0 +1,93 @@
+[
+    {
+      "title": "Paramedic ID",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "HYDPIL000001",
+      "index": "paramedicId"
+    },
+    {
+      "title": "Entity type",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "Hospital",
+      "index": "Entity type"
+    },
+    {
+      "title": "Employee Id",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "1081",
+      "index": "employeeId"
+    },
+    {
+      "title": "Paramedic Name",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "abdjsb sjd",
+      "index": "paramedicName"
+    },
+    {
+      "title": "Wallet ID",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "HYDCA0126",
+      "index": "walletId"
+    },
+    {
+      "title": "Company Name",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "infocycs",
+      "index": "companyMame"
+    },
+    {
+      "title": "Company ID",
+      "readOnly": false,
+      "inputType": "infocys",
+      "value": "DSJADIN123",
+      "index": "companyID"
+    },
+    {
+      "title": "Mobile",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "+91 9876543210",
+      "index": "mobile"
+    },
+    {
+      "title": "City",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Chennai",
+      "index": "city"
+    },
+    {
+      "title": "Status",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Active",
+      "index": "status"
+    },
+    {
+      "title": "Aadhar Number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "ASDC23DJDD23S",
+      "index": "aadharNumber"
+    },
+    {
+      "title": "PAN card number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "ASDC23DS",
+      "index": "pancardNumber"
+    },
+    {
+      "title": "Ready for Long trip",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "yes",
+      "index": "readyForLongTrip"
+    }
+  ]

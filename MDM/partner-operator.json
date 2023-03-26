@@ -1,0 +1,112 @@
+[
+    {
+      "companyId": "ELRC001",
+      "ownerId": "10001",
+      "name": "Shafivulla",
+      "company": "Sks Ambulance",
+      "primaryNumber": "7702421586",
+      "alternateNumber": "9951808899",
+      "city": "ELR",
+      "balance": "Rs. -69123",
+      "status": "Onboarded"
+    },
+    {
+      "companyId": "ELRL100",
+      "ownerId": "10002",
+      "name": "Pavan",
+      "company": "Eluru Leased Ambulance",
+      "primaryNumber": "6281976134",
+      "alternateNumber": "9700285228",
+      "city": "ELR",
+      "balance": "Rs. 0",
+      "status": "Onboarded"
+    },
+    {
+      "companyId": "ELRO001",
+      "ownerId": "10003",
+      "name": "Pavan",
+      "company": "Eluru Owned Ambulance",
+      "primaryNumber": "6281976134",
+      "alternateNumber": "9700285228",
+      "city": "HYD",
+      "balance": "Rs. 0",
+      "status": "Onboarded"
+    },
+    {
+      "companyId": "HYDC001",
+      "ownerId": "10004",
+      "name": "A Bala Ram",
+      "company": "Sri Sai Leela Ambulance Services",
+      "primaryNumber": "9492983848",
+      "alternateNumber": "9000212983",
+      "city": "HYD",
+      "balance": "Rs. -81853",
+      "status": "Onboarded"
+    },
+    {
+      "companyId": "HYDC002",
+      "ownerId": "10005",
+      "name": "Sree Meena - Removed",
+      "company": "0",
+      "primaryNumber": "0",
+      "alternateNumber": "0",
+      "city": "HYD",
+      "balance": "Rs. 0",
+      "status": "Removed"
+    },
+    {
+      "companyId": "HYDC003",
+      "ownerId": "10006",
+      "name": "Vasanth",
+      "company": "Sri Sai Seva Ambulances",
+      "primaryNumber": "9642931100",
+      "alternateNumber": "0",
+      "city": "HYD",
+      "balance": "Rs. -36961",
+      "status": "Onboarded"
+    },
+    {
+      "companyId": "HYDC004",
+      "ownerId": "10007",
+      "name": "Tajudhin",
+      "company": "Super Ambulances",
+      "primaryNumber": "9246152904",
+      "alternateNumber": "0",
+      "city": "HYD",
+      "balance": "Rs. -7664",
+      "status": "Removed"
+    },
+    {
+      "companyId": "HYDC005",
+      "ownerId": "10008",
+      "name": "Anand Kumar",
+      "company": "Sri Sai Gayatri Ambulance Services",
+      "primaryNumber": "9966027483",
+      "alternateNumber": "0",
+      "city": "HYD",
+      "balance": "Rs. -8360",
+      "status": "Removed"
+    },
+    {
+      "companyId": "HYDC006",
+      "ownerId": "10009",
+      "name": "Sai Kiran",
+      "company": "Sai Kiran Ambulance Services",
+      "primaryNumber": "9912345135",
+      "alternateNumber": "0",
+      "city": "HYD",
+      "balance": "Rs. -13127",
+      "status": "Removed"
+    },
+    {
+      "companyId": "HYDC007",
+      "ownerId": "10010",
+      "name": "Srinivas Reddy",
+      "company": "Om Katyayani Ambulances",
+      "primaryNumber": "9000781366",
+      "alternateNumber": "0",
+      "city": "HYD",
+      "balance": "Rs. 63000",
+      "status": "Onboarded"
+    }
+  ]

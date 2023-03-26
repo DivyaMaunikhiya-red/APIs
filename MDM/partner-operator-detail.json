@@ -1,0 +1,142 @@
+[
+    {
+      "title": "Company ID / Entity ID",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "IND-123",
+      "index": "companyId"
+    },
+    {
+      "title": "Entity type",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Private Limited Company",
+      "index": "entityType"
+    },
+    {
+      "title": "Company Name",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "ABC Private Limited",
+      "index": "companyName"
+    },
+    {
+      "title": "Partner operator ID",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "IND-OP-123",
+      "index": "partnerOperatorId"
+    },
+    {
+      "title": "Owner ID",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "IND-OWNER-123",
+      "index": "ownerId"
+    },
+    {
+      "title": "Wallet ID",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "IND-WALLET-123",
+      "index": "walletId"
+    },
+    {
+      "title": "Primary contact number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "9876543210",
+      "index": "primaryContactNumber"
+    },
+    {
+      "title": "Alternate contact number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "8765432109",
+      "index": "alternateContactNumber"
+    },
+    {
+      "title": "City",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Mumbai",
+      "index": "city"
+    },
+    {
+      "title": "Status",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Active",
+      "index": "status"
+    },
+    {
+      "title": "Onboarded on",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "01-01-2022",
+      "index": "onboardedOn"
+    },
+    {
+      "title": "Last updated on",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "02-02-2022",
+      "index": "lastUpdatedOn"
+    },
+    {
+      "title": "GSTIN",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "12ABCDE1234F1Z5",
+      "index": "gstin"
+    },
+    {
+      "title": "Aadhar Number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "1234 5678 9012",
+      "index": "aadharNumber"
+    },
+    {
+      "title": "PAN card number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "ABCDE1234F",
+      "index": "panCardNumber"
+    },
+    {
+      "title": "Bank Account Number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "1234567890123456",
+      "index": "bankAccountNumber"
+    },
+    {
+      "title": "Bank IFSC Code",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "SBIN0001234",
+      "index": "bankIfscCode"
+    },
+    {
+      "title": "License Number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "ABC1234",
+      "index": "licenseNumber"
+    },
+    {
+      "title": "License Expiry",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "01-01-2027",
+      "index": "licenseExpiry"
+    },
+    {
+      "title": "Link for documents",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "http://google.com",
+      "index": "linkForDocuments"
+    }
+  ]

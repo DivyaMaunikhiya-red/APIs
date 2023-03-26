@@ -1,0 +1,611 @@
+[
+    {
+      "title": "Master entity ID",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "ME001",
+      "index": "masterEntityId"
+    },
+    {
+      "title": "Client ID / Entity ID",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "C001",
+      "index": "clientId"
+    },
+    {
+      "title": "Entity type",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "Hospital",
+      "index": "entityType"
+    },
+    {
+      "title": "Client Name",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Apollo Hospitals",
+      "index": "clientName"
+    },
+    {
+      "title": "Wallet ID",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "W001",
+      "index": "walletId"
+    },
+    {
+      "title": "Primary contact number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "+91 9876543210",
+      "index": "primaryContactNumber"
+    },
+    {
+      "title": "Alternate contact number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "+91 9876543211",
+      "index": "alternateContactNumber"
+    },
+    {
+      "title": "Contract and rate same as master entity",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "true",
+      "index": "contractAndRateSameAsMasterEntity"
+    },
+    {
+      "title": "Contract start date",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2022-01-01",
+      "index": "contractStartDate"
+    },
+    {
+      "title": "Contract end date",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2023-12-31",
+      "index": "contractEndDate"
+    },
+    {
+      "title": "City",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Chennai",
+      "index": "city"
+    },
+    {
+      "title": "Status",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Active",
+      "index": "status"
+    },
+    {
+      "title": "Onboarded on",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2022-01-01",
+      "index": "onboardedOn"
+    },
+    {
+      "title": "Last updated on",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2022-05-01",
+      "index": "lastUpdatedOn"
+    },
+    {
+      "title": "GSTIN",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "ASNJCNAS89SDS",
+      "index": "gstin"
+    },
+    {
+      "title": "PAN card number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "ASDC23DS",
+      "index": "pancardNumber"
+    },
+    {
+      "title": "Bank IFSC Code",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "BKID122323",
+      "index": "bankifscCode"
+    },
+    {
+      "title": "Link for documents",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "http://google.com",
+      "index": "linkForDocuments"
+    },
+    {
+      "title": "Search radius (Km)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "50",
+      "index": "searchRadius"
+    },
+    {
+      "title": "Dedicated ALS",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "5000",
+      "index": "dedicatedALS"
+    },
+    {
+      "title": "Dedicated BLS",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "4000",
+      "index": "dedicatedBLS"
+    },
+    {
+      "title": "Agreed no of Dedicated ALS",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "4500",
+      "index": "agreedNoOfDedicatedALS"
+    },
+    {
+      "title": "Actual no of Dedicated ALS",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "3",
+      "index": "actualNoOfDedicatedALS"
+    },
+    {
+      "title": "Agreed no of Dedicated BLS",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "0",
+      "index": "agreedNoOfDedicatedBLS"
+    },
+    {
+      "title": "Actual no of Dedicated BLS",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "0",
+      "index": "actualNoOfDedicatedBLS"
+    },
+    {
+      "title": "ALS 1 category",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Category A",
+      "index": "als1Category"
+    },
+    {
+      "title": "ALS 2 category",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Category B",
+      "index": "als2Category"
+    },
+    {
+      "title": "ALS 3 category",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Category C",
+      "index": "als3Category"
+    },
+    {
+      "title": "ALS 4 category",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Category D",
+      "index": "als4Category"
+    },
+    {
+      "title": "BLS 1 category",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Category A",
+      "index": "bls1Category"
+    },
+    {
+      "title": "BLS 2 category",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Category B",
+      "index": "bls2Category"
+    },
+    {
+      "title": "BLS 3 category",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Category C",
+      "index": "bls3Category"
+    },
+    {
+      "title": "BLS 4 category",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Category D",
+      "index": "bls4Category"
+    },
+    {
+      "title": "Dedicated vehicle Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "10000",
+      "index": "dedicatedVehicleCharges"
+    },
+    {
+      "title": "Dedicated ALS TYPE 1 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "20000",
+      "index": "dedicatedALSType1Charges"
+    },
+    {
+      "title": "Dedicated ALS TYPE 2 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "30000",
+      "index": "dedicatedALSType2Charges"
+    },
+    {
+      "title": "Dedicated ALS TYPE 3 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "40000",
+      "index": "dedicatedALSType3Charges"
+    },
+    {
+      "title": "Dedicated ALS TYPE 4 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "50000",
+      "index": "dedicatedALSType4Charges"
+    },
+    {
+      "title": "Dedicated BLS TYPE 1 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "10000",
+      "index": "dedicatedBLSType1Charges"
+    },
+    {
+      "title": "Dedicated BLS TYPE 2 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "20000",
+      "index": "dedicatedBLSType2Charges"
+    },
+    {
+      "title": "Dedicated BLS TYPE 3 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "30000",
+      "index": "dedicatedBLSType3Charges"
+    },
+    {
+      "title": "Dedicated BLS TYPE 4 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "30000",
+      "index": "dedicatedBLSType4Charges"
+    },
+    {
+      "title": "Dedicated Additional ALS TYPE 1 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "20000",
+      "index": "dedicatedAddALSType1Charges"
+    },
+    {
+      "title": "Dedicated Additional ALS TYPE 2 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "30000",
+      "index": "dedicatedAddALSType2Charges"
+    },
+    {
+      "title": "Dedicated Additional ALS TYPE 3 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "40000",
+      "index": "dedicatedAddALSType3Charges"
+    },
+    {
+      "title": "Dedicated Additional ALS TYPE 4 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "50000",
+      "index": "dedicatedAddALSType4Charges"
+    },
+    {
+      "title": "Dedicated Additional BLS TYPE 1 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "10000",
+      "index": "dedicatedAddBLSType1Charges"
+    },
+    {
+      "title": "Dedicated Additional BLS TYPE 2 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "20000",
+      "index": "dedicatedAddBLSType2Charges"
+    },
+    {
+      "title": "Dedicated Additional BLS TYPE 3 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "30000",
+      "index": "dedicatedAddBLSType3Charges"
+    },
+    {
+      "title": "Dedicated Additional BLS TYPE 4 Charges (INR) per month",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "30000",
+      "index": "dedicatedAddBLSType4Charges"
+    },
+    {
+      "title": "Distance Chargeability",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "200",
+      "index": "distanceChargeability"
+    },
+    {
+      "title": "Time Chargeability",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "1200",
+      "index": "timeChargeability"
+    },
+    {
+      "title": "Agreed No of drivers without cost",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "No",
+      "index": "agreedNoOfDriversWithoutCost"
+    },
+    {
+      "title": "Actual number of drivers",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "5",
+      "index": "actualNoOfDrivers"
+    },
+    {
+      "title": "Cost of agreed drivers (INR / month)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "3000",
+      "index": "costOfAgreedDrivers"
+    },
+    {
+      "title": "Additional cost of a driver (INR / month)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "230",
+      "index": "additionalCostOfDriver"
+    },
+    {
+      "title": "Agreed No of paramedics without cost",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "No",
+      "index": "agreedNoOfParamedicsWithoutCost"
+    },
+    {
+      "title": "Actual number of paramedics",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "6",
+      "index": "actualNoOfParamedics"
+    },
+    {
+      "title": "Cost of agreed paramedic (INR / month)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "0",
+      "index": "costOfAgreedParamedic"
+    },
+    {
+      "title": "Additional cost of a paramedic (INR / month)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "400",
+      "index": "additionalCostOfParamedic"
+    },
+    {
+      "title": "Cost of helper per hour",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "200",
+      "index": "costOfHelperPerHour"
+    },
+    {
+      "title": "Free trip within X distance (Org level)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "0",
+      "index": "freeTripWithinDistanceOrgLevel"
+    },
+    {
+      "title": "Distance within which a trip will be considered free (Org level)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "123",
+      "index": "distanceForFreeTripOrgLevel"
+    },
+    {
+      "title": "Free trip within X distance applicable to inbound (Org level)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "0",
+      "index": "freeTripWithinDistanceInboundOrgLevel"
+    },
+    {
+      "title": "Free trip within X distance applicable to Outbound (Org level)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "1",
+      "index": "freeTripWithinDistanceOutboundOrgLevel"
+    },
+    {
+      "title": "No of free trips within X distance (Org level)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2",
+      "index": "numOfFreeTripsWithinDistanceOrgLevel"
+    },
+    {
+      "title": "No of free trips at account level (Org level)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "4",
+      "index": "numOfFreeTripsAtAccountLevelOrgLevel"
+    },
+    {
+      "title": "Free trip within X distance (Inbound)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "10 km",
+      "index": "freeTripInbound"
+    },
+    {
+      "title": "Distance within which a trip will be considered free (Inbound)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "5 km",
+      "index": "distanceFreeInbound"
+    },
+    {
+      "title": "No of free trips within X distance (Inbound)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2",
+      "index": "noOfFreeTripsInbound"
+    },
+    {
+      "title": "Free trip within X distance (Outbound)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "15 km",
+      "index": "freeTripOutbound"
+    },
+    {
+      "title": "Distance within which a trip will be considered free (Outbound)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "8 km",
+      "index": "distanceFreeOutbound"
+    },
+    {
+      "title": "No of free trips within X distance (Outbound)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "3",
+      "index": "noOfFreeTripsOutbound"
+    },
+    {
+      "title": "Waiting charges ALS (INR per hour)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "500",
+      "index": "waitingChargesALS"
+    },
+    {
+      "title": "MDMA 8",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Yes",
+      "index": "MDMA8"
+    },
+    {
+      "title": "Waiting charges BLS (INR per hour)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "300",
+      "index": "waitingChargesBLS"
+    },
+    {
+      "title": "Cancelation charge ALS (% of bill amount)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "10%",
+      "index": "cancelationChargeALS"
+    },
+    {
+      "title": "Cancellation charge (fixed amount)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "500",
+      "index": "cancellationChargeFixedAmount"
+    },
+    {
+      "title": "Cancellation charge BLS (% of bill amount)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "10",
+      "index": "cancellationChargeBLS"
+    },
+    {
+      "title": "Cancellation charge Free Trip (fixed amount)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "500",
+      "index": "cancellationChargeFixedAmountfreetrip"
+    },
+    {
+      "title": "Free trip within X distance",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "5",
+      "index": "freeTripDistance"
+    },
+    {
+      "title": "Distance within which a trip will be considered free",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "10",
+      "index": "freeTripDistanceThreshold"
+    },
+    {
+      "title": "Free trip within X distance applicable to inbound",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2",
+      "index": "inboundFreeTripDistance"
+    },
+    {
+      "title": "Free trip within X distance applicable to outbound",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "3",
+      "index": "outboundFreeTripDistance"
+    },
+    {
+      "title": "No of free trips within X distance",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "3",
+      "index": "freeTripCount"
+    },
+    {
+      "title": "No of free trips at account level",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "10",
+      "index": "accountFreeTripCount"
+    },
+    {
+      "title": "Usage Optimization: Round robin (Trips per month)",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "1000",
+      "index": "roundRobinTripsPerMonth"
+    }
+  ]

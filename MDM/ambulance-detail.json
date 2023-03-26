@@ -1,0 +1,79 @@
+[
+    {
+      "title": "Ambulance Id",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "BLRC093A002",
+      "index": "ambulanceId"
+    },
+    {
+      "title": "Entity ID",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "C0KA41A373201",
+      "index": "vehicleNum"
+    },
+    {
+      "title": "Register Number",
+      "readOnly": true,
+      "inputType": "input",
+      "value": "Abhishek C S",
+      "index": "owner"
+    },
+    {
+      "title": "Ownership Model",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Sri Ambulance Service",
+      "index": "company"
+    },
+    {
+      "title": "Wallet ID",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Onboarded",
+      "index": "companyStatus"
+    },
+    {
+      "title": "Primary contact number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "BLR",
+      "index": "city"
+    },
+    {
+      "title": "Alternate contact number",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "AGG",
+      "index": "ownershipType"
+    },
+    {
+      "title": "Contract and rate same as master entity",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "ECO",
+      "index": "model"
+    },
+    {
+      "title": "Contract start date",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "2022-01-01",
+      "index": "speciality"
+    },
+    {
+      "title": "City",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "FLR",
+      "index": "gpsType"
+    },
+    {
+      "title": "Status",
+      "readOnly": false,
+      "inputType": "input",
+      "value": "Onboarded",
+      "index": "status"
+    }
+  ]

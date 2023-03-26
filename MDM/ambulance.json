@@ -1,0 +1,93 @@
+[
+    {
+        "ambulanceId": "BLRC093A002",
+        "vehicleNum": "KA41A3732",
+        "owner": "Abhishek C S",
+        "company": "Sri Ambulance Service",
+        "companyStatus": "Onboarded",
+        "city": "BLR",
+        "ownershipType": "AGG",
+        "model": "ECO",
+        "speciality": "BLS",
+        "gpsType": "FLR",
+        "status": "Onboarded"
+    },
+    {
+        "ambulanceId": "BLRC093A001",
+        "vehicleNum": "KA05AB8327",
+        "owner": "Abhishek C S",
+        "company": "Sri Ambulance Service",
+        "companyStatus": "Onboarded",
+        "city": "BLR",
+        "ownershipType": "AGG",
+        "model": "TMP",
+        "speciality": "BLS",
+        "gpsType": "FLR",
+        "status": "Onboarded"
+    },
+    {
+        "ambulanceId": "BLRF001A009",
+        "vehicleNum": "TS09UD9148",
+        "owner": "Sk Vali",
+        "company": "Bengaluru Franchise Ambulance",
+        "companyStatus": "Onboarded",
+        "city": "BLR",
+        "ownershipType": "FCS",
+        "model": "ECO",
+        "speciality": "BLS",
+        "gpsType": "FLR",
+        "status": "Onboarded"
+    },
+    {
+        "ambulanceId": "HYDL100A0201",
+        "vehicleNum": "T1022HR2413BM",
+        "owner": "Sk Vali",
+        "company": "Hyderabad Leased Ambulance",
+        "companyStatus": "Onboarded",
+        "city": "HYD",
+        "ownershipType": "LSD",
+        "model": "TMP",
+        "speciality": "FRZ",
+        "gpsType": "NA",
+        "status": "Onboarded"
+    },
+    {
+        "ambulanceId": "CHNC011A007",
+        "vehicleNum": "TN09CW4290",
+        "owner": "Suresh",
+        "company": "Mass & Co",
+        "companyStatus": "Onboarded",
+        "city": "CHN",
+        "ownershipType": "AGG",
+        "model": "TMP",
+        "speciality": "ALS",
+        "gpsType": "FLR",
+        "status": "Onboarded"
+    },
+    {
+        "ambulanceId": "PNEC017A003",
+        "vehicleNum": "MH14CL0294",
+        "owner": "Vicky/kiran",
+        "company": "Sai Parasad Ambulance",
+        "companyStatus": "Onboarded",
+        "city": "PNE",
+        "ownershipType": "AGG",
+        "model": "TMP",
+        "speciality": "BLS",
+        "gpsType": "FLR",
+        "status": "Onboarded"
+    },
+    {
+        "ambulanceId": "PNEC017A002",
+        "vehicleNum": "MH14CL0292",
+        "owner": "Vicky/kiran",
+        "company": "Sai Parasad Ambulance",
+        "companyStatus": "Onboarded",
+        "city": "PNE",
+        "ownershipType": "AGG",
+        "model": "TMP",
+        "speciality": "BLS",
+        "gpsType": "FLR",
+        "status": "Onboarded"
+    }
+]
